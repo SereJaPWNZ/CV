@@ -22,19 +22,32 @@
 - **Инструменты тестирования:**  
   - API: Postman, Insomnia (настройка окружений, написание скриптов на JavaScript)  
   - Веб-анализ: Screaming Frog SEO Spider  
+  - Автоматизация тестирования: Selenium (Python), JMeter
+
+- **Языки программирования и скриптования:**  
+  - Python, SQL
+
 - **Документирование и отслеживание дефектов:**  
-  - Jira, Confluence, YouGile, Trello, WeKan, Google Sheets  
+  - Jira, Confluence, YouGile, Trello, WeKan, Google Sheets, Markdown
+
 - **Методологии:**  
-  - Scrum (проведение daily stand-ups, sprint planning, ретроспективы)  
+  - Scrum (проведение daily stand-ups, sprint planning, ретроспективы)
+
 - **Прочие навыки:**  
   - Анализ требований и спецификаций  
   - Интерактивное тестирование веб-приложений (DevTools)  
-  - Руководство командой тестировщиков  
+  - Руководство командой тестировщиков
+
+- **Инструменты отладки и анализа:**  
+  - Fiddler, Charles, Android Debug Bridge
+
 - **Дополнительные технологии:**  
-  - SQL (написание запросов, анализ данных)  
   - DBeaver (работа с базами данных)  
-  - Среды разработки: Aqua, PyCharm, VSCode  
-  - Автоматизация тестирования: Selenium (Python)
+  - Среды разработки: Aqua, PyCharm, VSCode
+
+- **Контроль версий:**  
+  - Git
+
 
 ---
 
